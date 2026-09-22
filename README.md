@@ -1,5 +1,9 @@
 # ⚡ Electricity Consumption Prediction
 
+## 🚀 Live Demo
+
+[Live Demo](https://electricity-consumption-prediction-h2gkhseszeqgwkb4psvuah.streamlit.app/)
+
 ## 📌 Project Overview
 
 This project uses Machine Learning to predict electricity consumption based on environmental conditions, lighting consumption, time-related features, and recent electricity consumption.
